@@ -6,14 +6,14 @@ import Logo from "./Logo";
 type NavItem = { href: string; label: string; icon: string };
 
 const dsNav: NavItem[] = [
-  { href: "/data-scientist/upload",      label: "Upload Dataset",  icon: "📤" },
-  { href: "/data-scientist",             label: "Pilih Dataset",   icon: "🗂️" },
-  { href: "/data-scientist/build-model", label: "Build Model",     icon: "⚙️" },
-  { href: "/data-scientist/evaluation",  label: "Evaluasi Model",  icon: "📊" },
+  { href: "/data-scientist/upload",      label: "Upload Dataset"   },
+  { href: "/data-scientist",             label: "Pilih Dataset"    },
+  { href: "/data-scientist/build-model", label: "Build Model"   },
+  { href: "/data-scientist/evaluation",  label: "Evaluasi Model" },
 ];
 const caNav: NavItem[] = [
-  { href: "/credit-analysis",         label: "Entry Data",     icon: "📝" },
-  { href: "/credit-analysis/result",  label: "Hasil Analisis", icon: "📋" },
+  { href: "/credit-analysis",         label: "Entry Data" },
+  { href: "/credit-analysis/result",  label: "Hasil Analisis" },
 ];
 
 export default function AppShell({
