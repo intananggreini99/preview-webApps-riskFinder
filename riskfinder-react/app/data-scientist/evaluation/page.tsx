@@ -7,7 +7,7 @@ export default function EvalPage() {
   const [valid, setValid] = useState("Holdout (20%)");
 
   return (
-    <div className="max-w-7xl mx-auto animate-fade-up">
+    <div className="max-w-7xl mx-auto">
       <div className="mb-8 flex items-end justify-between flex-wrap gap-4">
         <div>
           <span className="font-mono text-xs text-steel tracking-widest">— 05 / MODEL EVALUATION</span>

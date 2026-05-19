@@ -27,7 +27,7 @@ export default function UploadPage() {
   }
 
   return (
-    <div className="max-w-5xl mx-auto animate-fade-up">
+    <div className="max-w-5xl mx-auto ">
       <div className="flex items-end justify-between mb-8 flex-wrap gap-4">
         <div>
           <span className="font-mono text-xs text-steel tracking-widest">— 02 / DATA INGEST</span>

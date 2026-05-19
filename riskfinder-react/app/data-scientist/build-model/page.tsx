@@ -39,7 +39,7 @@ export default function BuildModelPage() {
   }
 
   return (
-    <div className="max-w-7xl mx-auto animate-fade-up">
+    <div className="max-w-7xl mx-auto">
       <div className="mb-8">
         <span className="font-mono text-xs text-steel tracking-widest">— 04 / MODEL BUILDING</span>
         <h1 className="font-display text-4xl font-bold text-navy mt-1">Build Model</h1>
