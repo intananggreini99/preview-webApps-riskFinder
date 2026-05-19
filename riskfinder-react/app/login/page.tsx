@@ -38,8 +38,8 @@ export default function LoginPage() {
                 CREDIT RISK INTELLIGENCE
               </span>
               <h1 className="font-display text-3xl lg:text-5xl leading-[1.05] font-bold mb-6">
-                Kendalikan <em className="text-mint not-italic">risiko</em> gagal bayar<br />
-                di <em className="text-cyan2 not-italic">genggaman</em> anda.
+                Kendalikan <em className="text-mint not-italic">risiko</em><br />
+                 gagal bayar di <em className="text-cyan2 not-italic">genggaman</em> anda.
               </h1>
               <p className="text-white/70 text-lg max-w-md leading-relaxed">
                 Platform analisis risiko kredit berbasis machine learning untuk memprediksi probabilitas gagal bayar peminjam individu maupun korporasi.
