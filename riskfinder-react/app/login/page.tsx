@@ -37,7 +37,7 @@ export default function LoginPage() {
               <span className="chip bg-mint/15 text-mint border border-mint/30 mb-6 inline-flex">
                 CREDIT RISK INTELLIGENCE
               </span>
-              <h1 className="font-display text-5xl lg:text-6xl leading-[1.05] font-bold mb-6">
+              <h1 className="font-display text-3xl lg:text-5xl leading-[1.05] font-bold mb-6">
                 Kendalikan <em className="text-mint not-italic">risiko</em> gagal bayar<br />
                 di <em className="text-cyan2 not-italic">genggaman</em> anda.
               </h1>
